@@ -1,6 +1,7 @@
 /*
-Relay US PIR vcc to 5v
-Relay US PIR GND to Ground
+Relay UltrasSonic PIR vcc to 5v
+Relay UltrasSonic PIR GND to Ground
+
 */
 #define ON   0 
 #define OFF  1
